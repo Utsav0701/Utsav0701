@@ -4,7 +4,7 @@ I am a full-stack Web Developer with experience in web applications and back-end
 
 In my spare time, I am mostly adding new skills to my repertoire and sometimes open-sourcing.
 </p>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
+<img align="right" alt="Coding" width="400" src="https://cdn.ribbble.com/users/1162077/screenshots/3848914/programmer.gif" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Utsav0701&label=Profile%20views&color=0e75b6&style=flat" alt="Utsav0701" /> </p>
 
